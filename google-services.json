@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884157354816",
+    "project_id": "connection-86799",
+    "storage_bucket": "connection-86799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884157354816:android:5e7bd099a73a466617a0a5",
+        "android_client_info": {
+          "package_name": "com.ashokbaniya.connection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884157354816-pe937ci8biv9h6v7ous0q3sm0u3sp1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6wOVc_fTdMRXJaupJ4WQQljkxrt3-6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884157354816-pe937ci8biv9h6v7ous0q3sm0u3sp1h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
